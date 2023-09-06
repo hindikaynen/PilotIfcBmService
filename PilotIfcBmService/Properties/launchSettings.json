@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PilotIfcBmService": {
+      "commandName": "Project",
+      "commandLineArgs": "http://localhost:5545 bim sedov 123456 \"E:\\ifc\\House.ifc\" \"d:\\house.bm\""
+    }
+  }
+}
